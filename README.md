@@ -1,6 +1,6 @@
 # 📡 Real-Time Crypto Portfolio Tracker & Reporter
 
-A multi-threaded real-time cryptocurrency portfolio tracking application built from scratch using **Python**, **Flask**, and **SQLite3**. This system automatically connects to external financial markets via a public REST API to track active investments, calculate financial margins, and run background services.
+A multi-threaded real-time cryptocurrency portfolio tracking application built from scratch using **Python**, **Flask**, and **SQLite3**. This system automatically connects to external financial markets via a public REST API to track active investments, calculate financial margins, and run background services
 
 ---
 
